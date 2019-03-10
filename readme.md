@@ -6,6 +6,18 @@
 
 本書に関するご意見・ご質問は[Discord](https://discord.gg/u4sxXas)の#neo_primer_supportチャンネルまでどうぞ
 
+## 【重要】neo-pythonコマンドについて
+2019/01/16に実装されたneo-python v0.8.3 へのアップデートによって、プロンプトを起動した後のコマンドが大きく変更されました。
+これに伴い、v0.8.3以後のneo-pythonでは、本書に記載のコマンドではエラーが発生するようになってしまいました。
+
+```
+Command 'xxxxx' not found
+```
+
+この問題に対して以下のページに、新しいコマンドの解説を記しましたので、ご参考ください。
+
+[コマンド解説一覧](https://github.com/keymakers/neo_primer/blob/master/commands.md)
+
 ## リンク
 * Keymakers 公式ホームページ：[keymakers.jp](keymakers.jp)
 * Keymakers 公式チャット：[Discord](https://discord.gg/u4sxXas)
